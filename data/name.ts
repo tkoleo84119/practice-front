@@ -1,4 +1,8 @@
-const names = [
+import {
+  UserInfo
+} from '@/types/types'
+
+const names: UserInfo[] = [
   {
     id: 1,
     name: 'Laith',
